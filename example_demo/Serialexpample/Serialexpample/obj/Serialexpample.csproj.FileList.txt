@@ -1,0 +1,9 @@
+obj\Debug\Serialexpample.exe
+obj\Debug\Serialexpample.pdb
+bin\Debug\Serialexpample.exe
+bin\Debug\Serialexpample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Serialexpample.Form1.resources
+obj\Debug\Serialexpample.PropertyPage.resources
+obj\Debug\Serialexpample.Properties.Resources.resources
+obj\Debug\Serialexpample.csproj.GenerateResource.Cache

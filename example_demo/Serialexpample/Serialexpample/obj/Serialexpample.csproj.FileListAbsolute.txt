@@ -1,0 +1,9 @@
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\obj\Debug\Serialexpample.Form1.resources
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\obj\Debug\Serialexpample.Properties.Resources.resources
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\obj\Debug\Serialexpample.csproj.GenerateResource.Cache
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\bin\Debug\Serialexpample.exe
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\bin\Debug\Serialexpample.pdb
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\obj\Debug\Serialexpample.exe
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\obj\Debug\Serialexpample.pdb
+E:\工作\2011年度\串口程序设计\CODE\Serialexpample\Serialexpample\obj\Debug\Serialexpample.PropertyPage.resources
